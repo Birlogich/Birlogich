@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Birlogich
 - 👀 I’m interested in videogames, youtube gaming, studying and at the same time teaching English.
-- 🌱 I’m currently learning html, scss, sass, css, jc.
-- 💞️ I’m looking to collaborate on distance basis. 
+- 🌱 I’m currently learning html, css, js.
+- 💞️ I’m looking for collaboration on distance basis. 
 - 📫 How to reach me - write me in telegram - @Ivan_ivanovvv.
 
 <!---
